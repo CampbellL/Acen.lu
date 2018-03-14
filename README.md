@@ -48,7 +48,7 @@
 <td>9gLM!oWKBiRcF*2Rc$3^59ikr9qXvF1yxPjNDtNVOG!b</td>
 </tr>
   <tr>
-    <td>phpmyadmin(http://acen.lu/phpmyadmin)</td>
+    <td>phpmyadmin<br>(http://acen.lu/phpmyadmin)</td>
     <td>root</td>
     <td>vJGFp1IYDi</td>
   </tr>
