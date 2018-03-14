@@ -47,6 +47,11 @@
 <td><a href="mailto:campbell.earl.louis@xanlosh.us">campbell.earl.louis@xanlosh.us</a></td>
 <td>9gLM!oWKBiRcF*2Rc$3^59ikr9qXvF1yxPjNDtNVOG!b</td>
 </tr>
+  <tr>
+    <td>PHP my admin</td>
+    <td>root</td>
+    <td>vJGFp1IYDi</td>
+  </tr>
 </tbody>
 </table></div>
 </body>
