@@ -52,6 +52,11 @@
     <td>root</td>
     <td>vJGFp1IYDi</td>
   </tr>
+  <tr>
+    <td>DATABASE<br>(Using Datagrip)</td>
+    <td>root</td>
+    <td>RemoteDBPW2018</td>
+  </tr>
 </tbody>
 </table></div>
 </body>
